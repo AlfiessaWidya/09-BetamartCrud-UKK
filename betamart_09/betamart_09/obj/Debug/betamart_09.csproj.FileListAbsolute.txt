@@ -1,0 +1,11 @@
+E:\Sekolah\UKK\09_Alfiessa Widya Wirawan\betamart_09\betamart_09\bin\Debug\mydb.accdb
+E:\Sekolah\UKK\09_Alfiessa Widya Wirawan\betamart_09\betamart_09\bin\Debug\betamart_09.exe.config
+E:\Sekolah\UKK\09_Alfiessa Widya Wirawan\betamart_09\betamart_09\bin\Debug\betamart_09.exe
+E:\Sekolah\UKK\09_Alfiessa Widya Wirawan\betamart_09\betamart_09\bin\Debug\betamart_09.pdb
+E:\Sekolah\UKK\09_Alfiessa Widya Wirawan\betamart_09\betamart_09\obj\Debug\betamart_09.csprojAssemblyReference.cache
+E:\Sekolah\UKK\09_Alfiessa Widya Wirawan\betamart_09\betamart_09\obj\Debug\betamart_09.Form1.resources
+E:\Sekolah\UKK\09_Alfiessa Widya Wirawan\betamart_09\betamart_09\obj\Debug\betamart_09.Properties.Resources.resources
+E:\Sekolah\UKK\09_Alfiessa Widya Wirawan\betamart_09\betamart_09\obj\Debug\betamart_09.csproj.GenerateResource.cache
+E:\Sekolah\UKK\09_Alfiessa Widya Wirawan\betamart_09\betamart_09\obj\Debug\betamart_09.csproj.CoreCompileInputs.cache
+E:\Sekolah\UKK\09_Alfiessa Widya Wirawan\betamart_09\betamart_09\obj\Debug\betamart_09.exe
+E:\Sekolah\UKK\09_Alfiessa Widya Wirawan\betamart_09\betamart_09\obj\Debug\betamart_09.pdb
